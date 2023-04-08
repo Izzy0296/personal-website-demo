@@ -1,6 +1,9 @@
 body{
     background-color:rgb(146, 203, 222)
+    
 }
+
+
 
 img{
     margin: 3rem 6rem 6rem 9rem;
@@ -47,4 +50,52 @@ footer{
 
 .quote{
 text-align: center;
+}
+
+#skateboard{
+    
+    margin: 3rem 6rem 6rem 20rem;
+    width: 50rem;
+    height: 30rem;
+    border-radius: 0%;
+    
+}
+
+#travel{
+    margin: 3rem 6rem 6rem 20rem;
+    width: 50rem;
+    height: 30rem;
+    border-radius: 0%;
+}
+
+#music{
+    margin: 3rem 6rem 6rem 20rem;
+    width: 50rem;
+    height: 30rem;
+    border-radius: 0%;
+}
+
+#first{
+    margin: 3rem 6rem 6rem 20rem;
+    width: 50rem;
+    height: 30rem;
+    border-radius: 50%;
+}
+
+#second{
+    margin: 3rem 6rem 6rem 20rem;
+    width: 50rem;
+    height: 30rem;
+    border-radius: 50%;
+}
+
+#third{
+    margin: 3rem 6rem 6rem 20rem;
+    width: 50rem;
+    height: 30rem;
+    border-radius: 50%;
+}
+
+#accomplish{
+    text-decoration: underline;
 }
