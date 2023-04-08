@@ -1,5 +1,50 @@
-nav{
-    text-align: center;
-    justify-content: flex-start;
+body{
+    background-color:rgb(146, 203, 222)
 }
 
+img{
+    margin: 3rem 6rem 6rem 9rem;
+    width: 70rem;
+    height: 30rem;
+    border-radius: 1%;
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+   
+}
+
+
+
+
+
+nav{
+    background-color: rgb(53, 53, 53);
+    height: 3.0em;
+    text-align: center;
+}
+
+a{
+    color: rgb(247, 153, 31);
+    margin: .5em;
+    padding: .5e;
+    font-size: 1.1em;
+}
+
+.name{
+    font-size: 1.5em;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+}
+
+.words{
+  text-align: center;
+}
+
+.version{
+  text-align: center;
+}
+
+.quote{
+text-align: center;
+}
