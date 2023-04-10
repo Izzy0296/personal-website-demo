@@ -28,7 +28,8 @@ a{
     color: rgb(247, 153, 31);
     margin: .5em;
     padding: .5e;
-    font-size: 1.1em;
+    font-size: 1.8em;
+    text-decoration: none;
 }
 
 .name{
