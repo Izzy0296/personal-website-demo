@@ -1,16 +1,22 @@
 body{
     background-color:rgb(146, 203, 222)
     
+    
+}
+
+h1{
+    text-align: center;
 }
 
 
 
 img{
     margin: 3rem 6rem 6rem 9rem;
-    width: 70rem;
+    width: 50rem;
     height: 30rem;
-    border-radius: 1%;
-    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+   
+   
+    
    
 }
 
@@ -29,6 +35,14 @@ a{
     margin: .5em;
     padding: .5e;
     font-size: 1.8em;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(247, 153, 31);
+    margin: .5em;
+    padding: .5e;
+    font-size: 2.2em;
     text-decoration: none;
 }
 
@@ -58,7 +72,7 @@ text-align: center;
     margin: 3rem 6rem 6rem 20rem;
     width: 50rem;
     height: 30rem;
-    border-radius: 0%;
+    border-radius: 10%;
     
 }
 
@@ -66,14 +80,15 @@ text-align: center;
     margin: 3rem 6rem 6rem 20rem;
     width: 50rem;
     height: 30rem;
-    border-radius: 0%;
+    border-radius: 10%;
+    
 }
 
 #music{
     margin: 3rem 6rem 6rem 20rem;
     width: 50rem;
     height: 30rem;
-    border-radius: 0%;
+    border-radius: 10%;
 }
 
 #first{
@@ -105,14 +120,18 @@ div{
     text-align: center;
     margin: 2em;
 }
- .name{
-    margin: 2rem 2rem 2rem 2rem ;
+
+ .color{
+   
+    margin:100px
+    
  }
 
- .email{
-    margin: 2rem 3rem 1rem 3rem;
+ .travel2{
+    text-align: center;
  }
 
- .message{
-    margin: 2rem 2rem 2rem 2rem;
+ .music2{
+    text-align: center;
  }
+
