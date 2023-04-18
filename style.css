@@ -100,3 +100,19 @@ text-align: center;
 #accomplish{
     text-decoration: underline;
 }
+
+div{
+    text-align: center;
+    margin: 2em;
+}
+ .name{
+    margin: 2rem 2rem 2rem 2rem ;
+ }
+
+ .email{
+    margin: 2rem 3rem 1rem 3rem;
+ }
+
+ .message{
+    margin: 2rem 2rem 2rem 2rem;
+ }
