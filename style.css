@@ -135,3 +135,16 @@ div{
     text-align: center;
  }
 
+ .container{
+    border: 10px solid rgb(246, 239, 239);
+    width: 40%;
+    text-align: center;
+   
+ }
+
+ form{
+   display: flex;
+   justify-content: center;
+ }
+    
+  
