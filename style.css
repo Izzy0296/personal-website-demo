@@ -145,10 +145,12 @@ text-align: center;
  form{
    display: flex;
    justify-content: center;
+   margin: 4em;
    
  }
    
  .image-container{
     text-align: center;
+    
  }
   
