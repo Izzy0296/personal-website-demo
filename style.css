@@ -66,7 +66,7 @@ text-align: center;
 
 #skateboard{
     
-    margin: 3rem 6rem 6rem 20rem;
+    margin: 1rem 6rem 5rem 6.5rem;
     width: 30%;
     height: 30%;
     border-radius: 10%;
@@ -76,7 +76,7 @@ text-align: center;
 }
 
 #travel{
-    margin: 3rem 6rem 6rem 20rem;
+    margin: 1rem 6rem 5rem 10rem;
     width: 30%;
     height: 30%;
     border-radius: 10%;
@@ -84,9 +84,9 @@ text-align: center;
 }
 
 #music{
-    margin: 3rem 6rem 6rem 20rem;
-    width: 30%;
-    height: 30%;
+    margin: 1rem 6rem 5rem 12rem;
+    width: 28%;
+    height: 0%;
     border-radius: 10%;
 }
 
