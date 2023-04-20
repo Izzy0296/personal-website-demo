@@ -21,9 +21,6 @@ img{
 }
 
 
-
-
-
 nav{
     background-color: rgb(53, 53, 53);
     height: 3.0em;
@@ -70,24 +67,26 @@ text-align: center;
 #skateboard{
     
     margin: 3rem 6rem 6rem 20rem;
-    width: 50rem;
-    height: 30rem;
+    width: 30%;
+    height: 30%;
     border-radius: 10%;
+   
+    
     
 }
 
 #travel{
     margin: 3rem 6rem 6rem 20rem;
-    width: 50rem;
-    height: 30rem;
+    width: 30%;
+    height: 30%;
     border-radius: 10%;
     
 }
 
 #music{
     margin: 3rem 6rem 6rem 20rem;
-    width: 50rem;
-    height: 30rem;
+    width: 30%;
+    height: 30%;
     border-radius: 10%;
 }
 
@@ -116,9 +115,10 @@ text-align: center;
     text-decoration: underline;
 }
 
-div{
-    text-align: center;
+.div{
     margin: 2em;
+    display: flex;
+    justify-content: center;
 }
 
  .color{
@@ -137,7 +137,7 @@ div{
 
  .container{
     border: 10px solid rgb(246, 239, 239);
-    width: 40%;
+    width: 50%;
     text-align: center;
    
  }
@@ -145,6 +145,10 @@ div{
  form{
    display: flex;
    justify-content: center;
+   
  }
-    
+   
+ .image-container{
+    text-align: center;
+ }
   
